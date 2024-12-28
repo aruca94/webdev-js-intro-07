@@ -37,10 +37,10 @@ To view the project locally, you can either open the project files in your code 
 
 #### Part 2
 
-- [ ] Navigate to the Assignment Page
-- [ ] Read the assignment overview and output section.
-- [ ] In `assignment.js`:
-    - [ ] Create a function called `returnTheRemainder` that returns the remainder of the division of two numbers. This function should take in two arguments and return a value.
+- [X] Navigate to the Assignment Page
+- [X] Read the assignment overview and output section.
+- [X] In `assignment.js`:
+    - [X] Create a function called `returnTheRemainder` that returns the remainder of the division of two numbers. This function should take in two arguments and return a value.
     - [ ] Create a function called `checkIfEven`. This function should return `true` or `false` based on the input.
     - [ ] Create a function called `getTheFourthElement`. This function should take in the existing array, `lostNumbers`, and return the fourth element of the array.
     - [ ] Create the remaining functionality to render your answers.
