@@ -8,8 +8,7 @@ const lostNumbersElement = document.getElementById("lost-numbers");
 const lostNumbers = [4, 8, 15, 16, 23, 42];
 
 function returnTheRemainder(num1,num2) {
-    let roundedNum = Math.round(num1/num2 % 2);
-    remainderElement.innerText = roundedNum;
+    remainderElement.innerText = num1 % num2;
 };
 
 function render(){
